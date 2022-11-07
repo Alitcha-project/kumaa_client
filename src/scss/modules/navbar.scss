@@ -1,0 +1,115 @@
+.nav {
+  display: flex;
+}
+.logo {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  color: #ff7f00;
+  align-items: center;
+  text-decoration-line: underline;
+  display: flex;
+  left: 105px;
+  top: 15px;
+  font-size: 28px;
+  font-family: "Inter";
+  font-style: normal;
+  line-height: 24px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+.li1 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 272px;
+  top: 15px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 15px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #333333;
+}
+
+.li2 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 369px;
+  top: 15px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 15px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #333333;
+}
+.li3 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 486px;
+  top: 15px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 15px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #333333;
+}
+.searchbar {
+  box-sizing: border-box;
+  position: absolute;
+  width: 397px;
+  height: 33px;
+  left: 632px;
+  top: 14px;
+  background: #ffffff;
+  border: 1px solid #d5e3ec;
+  box-shadow: 0px 0px 4px #d8e1e8;
+  border-radius: 8px;
+}
+.avatar {
+  box-sizing: border-box;
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  left: 1084px;
+  top: 15px;
+  border-radius: 25px;
+}
+.notification {
+  left: 6.25%;
+  right: 6.25%;
+  top: 0%;
+  bottom: 0%;
+  position: absolute;
+  width: 21, 88px;
+  height: 30px;
+  left: 1140px;
+  top: 15px;
+  color: #fa7817;
+}
+.navbar {
+  position: absolute;
+  width: 1440px;
+  height: 60px;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px #d8e1e8;
+}
